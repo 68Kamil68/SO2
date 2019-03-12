@@ -1,0 +1,5 @@
+plik1.txt
+a d
+plik2.txt
+v v
+plik3.txt
